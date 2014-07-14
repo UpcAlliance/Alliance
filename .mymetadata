@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Alliance"
+  id="myeclipse.1404808847409"
+  context-root="/Alliance"
+  j2ee-spec="5.0"
+  archive="Alliance.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
