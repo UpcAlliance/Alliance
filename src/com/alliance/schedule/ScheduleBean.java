@@ -64,4 +64,5 @@ public class ScheduleBean {
 	public void setSchedual_state(String schedualState) {
 		schedual_state = schedualState;
 	}
+	//test
 }
